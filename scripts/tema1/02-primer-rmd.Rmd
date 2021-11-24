@@ -1,7 +1,7 @@
 ---
-title: "Mi primer Markdown"
-author: "Curso de Álgebra Lineal"
-date: "11/12/2018"
+title: "Mi primer Markdownn"
+author: "Fabian Gonzalez"
+date: "24/11/2021"
 output:
   html_document:
     df_print: paged
